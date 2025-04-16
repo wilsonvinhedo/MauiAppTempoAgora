@@ -32,6 +32,8 @@
                    FontSize="16" 
                    TextColor="Black"/>
 
+            <WebView x:Name="wv_mapa" HeightRequest="500" />
+
         </VerticalStackLayout>
     </ScrollView>
 
